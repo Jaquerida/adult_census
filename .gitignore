@@ -11,3 +11,4 @@ dataset/
 # Arquivos específicos do sistema
 .DS_Store
 .env  # para variáveis sensíveis, se houver
+Projeto.ipynb
